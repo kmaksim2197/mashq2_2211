@@ -1,3 +1,5 @@
+import random
+
 random.randint(1, 6)
 random.randint(1000, 9999)
 random.sample(lst, 2)
